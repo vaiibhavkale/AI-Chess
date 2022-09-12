@@ -57,7 +57,6 @@ $ java -jar chess.jar
 # victimsShade        color influence for victim positions
 #
 #
-#Wed Jul 03 01:13:30 CDT 2019
 numDrawReps=3
 
 humanPlayer=false
